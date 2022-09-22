@@ -2,46 +2,74 @@
 26866:
   106:
   - :STRING
-  - :26866_106
+  - :ssl_validity_not_after
   2531:
   - :uint32
-  - :26866_2531
+  - :ssl_server_hello_extension_type
   2532:
   - :uint32
-  - :26866_2532
+  - :ssl_request_size
   2533:
   - :uint32
-  - :26866_2533
+  - :ssl_handshake_type
   2535:
   - :uint32
-  - :26866_2535
+  - :ssl_client_hello_extension_type
   101:
   - :STRING
-  - :26866_101
+  - :ssl_common_name
   112:
   - :STRING
-  - :26866_112
+  - :ssl_server_name
   107:
   - :STRING
-  - :26866_107
+  - :ssl_serial_number
   105:
   - :STRING
-  - :26866_105
+  - :ssl_validity_not_before
   2548:
   - :STRING
-  - :26866_2548
+  - :ssl_server_name_raw
+  2539:
+  - :STRING
+  - :ssl_server_name_raw
   2545:
   - :STRING
-  - :26866_2545
+  - :ssl_issuer
   2228:
   - :STRING
-  - :26866_2228
+  - :http2_header_raw
   2238:
   - :STRING
-  - :26866_2238
+  - :http2_mime_type
   2237:
   - :STRING
-  - :26866_2237
+  - :http2_method
   2250:
   - :STRING
-  - :26866_2250
+  - :http2_user_agent
+  2250:
+  - :STRING
+  - :http2_user_agent
+  4676:
+  - :STRING
+  - :http_host
+  1958:
+  - :STRING
+  - :dns_query
+  4681:
+  - :STRING
+  - :http_uri_raw
+  4745:
+  - :STRING
+  - :http_uri
+  4721:
+  - :STRING
+  - :http_uri_full
+  3:
+  - :STRING
+  - :http_user_agent
+  4702:
+  - :STRING
+  - :http_server_agent
+  
